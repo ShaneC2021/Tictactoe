@@ -1,0 +1,35 @@
+body{background-color:blue;
+}
+
+.tileA
+
+{ text-align:center;
+    
+    background-color:grey;
+    font:100px;
+    
+    width:100px;
+    height:100px;
+    
+
+}
+td
+{
+    text-align:center;
+    
+    background-color:red;
+    font:100px;
+
+    width:100px;
+    height:100px;
+}
+
+.container
+{
+
+  height: 600px;
+  background-color: greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
